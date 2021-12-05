@@ -4,12 +4,12 @@
 The origonal purpose of the anaylsis was to graph ride sharing in under served communities by creating serveral data frames as well as graphs to display the trends in these communities. The later goal and object was to create a summary data frame onthe subject of ride sharing as well as generating a multi-line graph on total fares for each city type.
 
 ## Results
-From our results, we see that while cities do have more fares as well as more riders, on average the more rural area is, the mmore they pay for their fares. This trend can be seen across all the data, that there are less drivers and less riders in rural areas, the average fare per driver or rider is higher. Urban areas show the opposite trend, while there are more drivers and riders they are being charged less.
+From our results, we see that while cities do have more fares as well as more riders, the more rural area pay more for their fares. Furthermore we can see from the data that there are less drivers and less riders in rural areas on the whole thus inflating the cost on the rider. Urban areas show the opposite trend, while there are more drivers and riders they are being charged less due to increased supply of drivers.
 
 
 
 ## Conclusion and Recommendation
-The disapparites between rural and urban communities most likely lies at the personal need for a car within these two different enviroments. In a large city it is often a hinderannce to own a car, as things such as lack of, as well as high cost for parking as well as constant traffic alongside more direct public transportation that doesn;t rely on motorways such as subways make is easier for people to justify not owning a car. This means that when they do want a ride, they are more likely to use our service. In rural communities, owning a car is more likely needed for simply getting around , as your nearest gorcery store could be 20 mintues away by car with no public transportation, so the average person is more likely to priotize owning a car.  
+The disapparites between rural and urban communities most likely lies at the personal need for a car within these two different enviroments. In a large city it is often a hinderance to own a car, due to high cost for parking along side with infrequent areas to park, coupled with consistant traffic alongside more direct public transportation which do not rely on roads such as subways make it more practical use other means of transportation. This means that when they do want a ride, they are more likely to use our service. On the other hand, in rural communities owning a car is more likely needed for simply getting around , as your nearest gorcery store could be 20 mintues away by car with no public transportation, so the average person is more likely to priotize owning a car.  
 
 <img src = "Images/PyBer_fare_summary.png">
 
